@@ -1,2 +1,2 @@
 #!/bin/bash
-username_whoami=$(whoami)
+ls -l ./permissions
