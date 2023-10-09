@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -n 1-who_am_i 
+_user="$(id -u -n)" 
