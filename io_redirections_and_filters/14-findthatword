@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -d root /etc/passwd
+uniq -d "root" /etc/passwd
