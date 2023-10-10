@@ -1,2 +1,2 @@
 #!/bin/bash
-tail notes
+find type f ls -t
