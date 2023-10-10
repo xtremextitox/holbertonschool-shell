@@ -1,2 +1,2 @@
 #!/bin/bash
-sort . ..
+find ./* -type d -print | wc -1
