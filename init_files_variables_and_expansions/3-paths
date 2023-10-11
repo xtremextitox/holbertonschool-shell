@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH=$PATH ls -c
+echo $PATH | tr ":" "\n" | wc -1
