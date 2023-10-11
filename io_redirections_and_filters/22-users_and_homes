@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la | sort [user]
+ls -la | sort [[user]]
