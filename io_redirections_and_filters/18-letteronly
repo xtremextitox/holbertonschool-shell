@@ -1,2 +1,2 @@
 #!/bin/bash
-find -n [[:upper:]] /etc/ssh/sshd_config
+find -n a??z /etc/ssh/sshd_config
