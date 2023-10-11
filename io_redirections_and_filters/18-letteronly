@@ -1,2 +1,2 @@
 #!/bin/bash
-find -n a??z /etc/ssh/sshd_config
+cat -n a??z /etc/ssh/sshd_config
