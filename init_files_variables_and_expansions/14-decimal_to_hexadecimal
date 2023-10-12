@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((6#$DECIMAL)) | sort
+echo $((6.5#$DECIMAL)) | sort
