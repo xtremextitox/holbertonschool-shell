@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((10.5#$DECIMAL)) | sort
+echo $((10.6#$DECIMAL)) | sort
