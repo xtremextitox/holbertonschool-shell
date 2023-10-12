@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((10#$DECIMAL)) | sort
+echo $((9#$DECIMAL)) | sort
